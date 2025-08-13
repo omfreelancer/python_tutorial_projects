@@ -21,11 +21,3 @@ Example:
    Enter a temperature unit in Celsius or fahrenheit (C/F): C
    Enter the temperature: 25
    the temperature is 845.0 Fahrenheit
-
-Note:
-   This script currently uses a multiplier/divider of 33.8 instead of the usual formula   for C↔F conversion.
-   The standard formulas are:
-
-   Celsius → Fahrenheit: (C * 9/5) + 32
-
-   Fahrenheit → Celsius: (F - 32) * 5/9
